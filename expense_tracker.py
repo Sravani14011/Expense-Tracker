@@ -1,8 +1,8 @@
 expenses = []
-while true:
+while True:
   print("\n====Expense Tracker====")
   print("1. Add Expenses")
-  print("2. view Expenses")
+  print("2. View Expenses")
   print("3. Show Total Expense")
   print("4. Exit")
   choice = input("Enter your choice: ")
